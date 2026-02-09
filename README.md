@@ -39,3 +39,5 @@
 - **Python**: Django, Flask, анализ данных, скрипты
 - **PHP**: Laravel, WordPress, создание веб-приложений
 - Разработка REST API, работа с базами данных
+
+https://github.com/arinaskuzminyh-del/arinaskuzminyh-del/
